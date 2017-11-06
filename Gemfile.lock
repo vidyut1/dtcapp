@@ -1,5 +1,6 @@
-PATH
-  remote: /Users/admin/Code/StudyPad/Interview/activeadmin
+GIT
+  remote: git://github.com/vidyut1/activeadmin.git
+  revision: b15d47746b11c19d97fa1208c24bd6b49e7d33f0
   specs:
     activeadmin (1.0.0.pre1)
       arbre (~> 1.0, >= 1.0.2)
